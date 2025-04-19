@@ -7,7 +7,7 @@ from sentence_transformers import SentenceTransformer
 import faiss
 
 # --- Gemini & Embedding Setup ---
-GOOGLE_API_KEY = "AIzaSyBDd2kMR4BJwVaS_yoFhY2gRZy8g1CpiR0"  # Replace this securely
+GOOGLE_API_KEY = "********************************"  # Replace this securely
 
 @st.cache_resource
 def setup_models():
