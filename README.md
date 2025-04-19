@@ -97,6 +97,8 @@ streamlit run app.py
 
 ---
 
+## Link for the dataset: https://drive.google.com/drive/folders/1Le1MNWKOl9FtCQOhgq-Ol1X4G0C45V4t?usp=drive_link
+
 ## 🙌 Credits
 
 Developed with ❤️ by [Suyash Pandey](https://github.com/SP4567)
